@@ -5,4 +5,4 @@ AWS Cloud DevOps Engineer
 
  I’m looking to collaborate on CI/CD Pipeline project
  <br />
- 📫 Contact me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theariharasudhan)
+ Contact me :   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theariharasudhan)
