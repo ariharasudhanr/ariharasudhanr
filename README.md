@@ -1,9 +1,6 @@
-## Hi there 👋
+# Hi there 👋 It's me ariharasudhan
 
-<!--
-**ariharasudhanr/ariharasudhanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+AWS Cloud DevOps Engineer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
