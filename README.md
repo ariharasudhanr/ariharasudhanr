@@ -1,7 +1,7 @@
 # Hi there 👋 It's me ariharasudhan
 
 AWS Cloud DevOps Engineer
-<img align="right" width="370" height="290" src="https://thecloudlegion.com/images/devops.gif">
+<img align="right" width="200" height="290" src="https://thecloudlegion.com/images/devops.gif">
 
 
 - 🔭 I’m currently working on ...
