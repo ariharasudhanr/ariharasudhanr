@@ -9,5 +9,7 @@ I’m looking to collaborate on CI/CD Pipeline project
   <br />
   ### I code in
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5.png" alt="html-5"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="50" height="50" src="https://img.icons8.com/color/50/mysql-logo.png" alt="mysql-logo"/>
+  ### Tools
+  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo.png" alt="external-github-with-cat-logo-an-online-community-for-software-development-logo-bold-tal-revivo"/>
   
   
