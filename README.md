@@ -1,7 +1,7 @@
 # Hi there 👋 It's me ariharasudhan
 
 AWS Cloud DevOps Engineer
-<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.groupnp.com%2Fhow-devops-teams-help-deliver-better-software-faster%2F&psig=AOvVaw3TnhIYqJaOZ94og-91JY_5&ust=1725725699820000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDchLHbrogDFQAAAAAdAAAAABAW">
+<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.groupnp.com%2Fhow-devops-teams-help-deliver-better-software-faster%2F&psig=AOvVaw3TnhIYqJaOZ94og-91JY_5&ust=1725725699820000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDchLHbrogDFQAAAAAdAAAAABAW.gif">
 
 
 - 🔭 I’m currently working on ...
