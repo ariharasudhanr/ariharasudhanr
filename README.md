@@ -10,6 +10,5 @@ I’m looking to collaborate on CI/CD Pipeline project
   ### I code in
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/50/html-5.png" alt="html-5"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/> <img width="50" height="50" src="https://img.icons8.com/color/50/mysql-logo.png" alt="mysql-logo"/>
   ### Tools
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-  
+<img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/> <img width="50" height="50" src="https://img.icons8.com/color/50/splunk.png" alt="splunk"/> <img width="50" height="50" src="https://img.icons8.com/color/50/prometheus-app.png" alt="prometheus-app"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/> <img width="50" height="50" src="https://img.icons8.com/color/50/ansible.png" alt="ansible"/> <img width="50" height="50" src="https://img.icons8.com/color/50/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/50/terraform.png" alt="terraform"/> <img width="50" height="50" src="https://img.icons8.com/color/50/kubernetes.png" alt="kubernetes"/> 
   
