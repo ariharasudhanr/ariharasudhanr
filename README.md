@@ -9,4 +9,6 @@ I’m looking to collaborate on CI/CD Pipeline project
   <br />
   ### I code in
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+  
   
