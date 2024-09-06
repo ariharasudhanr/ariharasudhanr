@@ -6,3 +6,7 @@ AWS Cloud DevOps Engineer
  I’m looking to collaborate on CI/CD Pipeline project
  <br />  Contact me : <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theariharasudhan) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/ariharasudhanr1@gmail.com)
+  <br />
+  ### I code in
+  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+  
