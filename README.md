@@ -1,7 +1,7 @@
 # Hi there 👋 It's me ariharasudhan
 
 AWS Cloud DevOps Engineer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.algoworks.com%2Fblog%2Fenterprise-devops-solutions%2F&psig=AOvVaw0HxGDKQkMPoPXgm4-iqdou&ust=1725725604963000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOi3ooTbrogDFQAAAAAdAAAAABAK">
 
 
 - 🔭 I’m currently working on ...
