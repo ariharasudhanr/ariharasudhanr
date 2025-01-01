@@ -17,4 +17,10 @@ I’m looking to collaborate on Cloud infrastructure management & CI/CD Pipeline
   ### Tools
   <img width="50" height="50" src="https://img.icons8.com/color/50/amazon-web-services.png" alt="amazon-web-services"/> <img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/> <img width="50" height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins"/> <img width="50" height="50" src="https://img.icons8.com/color/50/splunk.png" alt="splunk"/> <img width="50" height="50" src="https://img.icons8.com/color/50/prometheus-app.png" alt="prometheus-app"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/> <img width="50" height="50" src="https://img.icons8.com/color/50/ansible.png" alt="ansible"/> <img width="50" height="50" src="https://img.icons8.com/color/50/docker.png" alt="docker"/> <img width="50" height="50" src="https://img.icons8.com/color/50/terraform.png" alt="terraform"/> <img width="50" height="50" src="https://img.icons8.com/color/50/kubernetes.png" alt="kubernetes"/> 
   <br /> 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariharasudhanr&show_icons=true&locale=en&layout=compact" alt="ariharasudhanr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariharasudhanr&show_icons=true&locale=en" alt="ariharasudhanr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ariharasudhanr&" alt="ariharasudhanr" /></p>
+
   [![Ariharasudhan,s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ariharasudhanr&bg_color=000000&color=ffffff&line=6bd756&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
