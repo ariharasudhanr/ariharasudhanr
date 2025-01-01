@@ -10,7 +10,6 @@ I’m looking to collaborate on Cloud infrastructure management & CI/CD Pipeline
   <br />
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariharsudhanr&label=Profile%20views&color=0e75b6&style=flat" alt="ariharasudhanr" /> </p>
-
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariharasudhanr" alt="ariharasudhanr" /></a> </p>
   
   ### I code in
