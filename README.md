@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 It's me ARIHARASUDHAN</h1>
 
-<h2 align="center">AWS Cloud DevOps Engineer from India<h/h2>
-----
+<h2 align="center">AWS Cloud DevOps Engineer</h2>
+ 
 <img align="right" width="370" height="250" src="https://www.groupnp.com/wp-content/uploads/sites/72/2022/07/DevOps-figure-of-8.gif">
 
 I’m looking to collaborate on Cloud infrastructure management & CI/CD Pipeline Projects
