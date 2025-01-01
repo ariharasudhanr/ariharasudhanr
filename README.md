@@ -7,8 +7,8 @@
 I’m looking to collaborate on Cloud infrastructure management & CI/CD Pipeline Projects
  <br />  Contact me : <br />
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theariharasudhan) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/ariharasudhanr1@gmail.com)
+
   <br />
-  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ariharsudhanr&label=Profile%20views&color=0e75b6&style=flat" alt="ariharasudhanr" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariharasudhanr" alt="ariharasudhanr" /></a> </p>
   
